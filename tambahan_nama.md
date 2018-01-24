@@ -1,0 +1,2 @@
+nama: Aan 
+bagian: manager
